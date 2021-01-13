@@ -1,4 +1,4 @@
-# pokedex-web
+# BlogZ
 
 ## Project setup
 ```
